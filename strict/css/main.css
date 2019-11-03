@@ -250,5 +250,26 @@ html {
 .stay-with form {
   width: 50%;
   margin: 0 auto;
+  padding-bottom: 11.1rem;
+}
+
+.stay-with form .info input, .stay-with form .info textarea {
+  background: transparent;
+  border-radius: 2px;
+  border: 1px solid #999999;
+  padding: 16px;
+  margin-top: 6px;
+  width: 100%;
+}
+
+.stay-with form .btn {
+  color: #ffffff;
+  font-family: Lato;
+  font-size: 1.8rem;
+  font-weight: 400;
+  letter-spacing: 0.045rem;
+  border-radius: .2rem;
+  border: 1px solid #15a4fa;
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */
