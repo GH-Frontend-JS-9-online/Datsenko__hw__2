@@ -355,7 +355,7 @@ html {
   margin-bottom: 4.1rem;
 }
 
-.footer .footer-box-social span {
+.footer .footer-box-social span a {
   font-size: 1.6rem;
   color: #b9c0c6;
   margin-right: 2.2rem;
