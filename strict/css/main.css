@@ -224,7 +224,12 @@ html {
 
 .stay-with {
   text-align: center;
-  background: #2d3950;
+  background-blend-mode: multiply;
+  background-image: url("../img/stay_bg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(45, 57, 80, 0.5);
   opacity: 0.9;
 }
 
